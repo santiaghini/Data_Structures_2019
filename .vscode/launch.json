@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Busqueda",
+            "request": "launch",
+            "mainClass": "Busqueda"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Arreglo",
+            "request": "launch",
+            "mainClass": "Arreglo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TailRecursion",
+            "request": "launch",
+            "mainClass": "TailRecursion"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Recursion",
+            "request": "launch",
+            "mainClass": "Recursion"
+        }
+    ]
+}
